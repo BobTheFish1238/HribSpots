@@ -11,6 +11,6 @@ App made with tasker: <a href="https://taskernet.com/shares/?user=AS35m8lAGpgBQ8
 
 4. Use map to filter or export data
 
-<img width="1080" height="2092" alt="Screenshot_20261005_153353_Tasker" src="https://github.com/user-attachments/assets/ef4d3cb3-0717-42d3-a77f-8d2dd691c2fe" />
-<img width="1080" height="2093" alt="Screenshot_20261005_153403_Tasker" src="https://github.com/user-attachments/assets/4318fa12-2ae7-4682-b319-6aa0141cf4fb" />
-<img width="1080" height="2093" alt="Screenshot_20261005_153609_Tasker" src="https://github.com/user-attachments/assets/99e1fb48-bd38-49fb-a137-769762df605e" />
+<img width="1080" height="2092" alt="Screenshot_20261010_001459_Tasker" src="https://github.com/user-attachments/assets/bfc72c42-bef0-4bba-b6b6-846d9a988995" />
+<img width="1080" height="2093" alt="Screenshot_20261010_001533_Tasker" src="https://github.com/user-attachments/assets/5eff2f52-b75c-4531-af18-e05a75135d97" />
+<img width="1080" height="2093" alt="Screenshot_20261010_001539_Tasker" src="https://github.com/user-attachments/assets/40cfe15a-c51e-400f-bb79-95facfbcd982" />
